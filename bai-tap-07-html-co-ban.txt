@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu bản thân - Nguyen Van A</title>
+</head>
+<body>
+
+    <!-- 1. Tiêu đề chính (Tên của bạn) -->
+    <h1>Nguyễn Văn A</h1>
+    <p><em>Chào mừng bạn đến với trang web cá nhân của mình!</em></p>
+
+    <hr>
+
+    <!-- 2. Ảnh đại diện -->
+    <h3>Ảnh đại diện</h3>
+    <img src="https://via.placeholder.com/200" alt="Ảnh đại diện của Nguyễn Văn A" width="200">
+
+    <hr>
+
+    <!-- 3. Danh sách sở thích -->
+    <h3>Sở thích cá nhân</h3>
+    <ul>
+        <li>Lập trình web và nghiên cứu công nghệ mới</li>
+        <li>Đọc sách phát triển bản thân</li>
+        <li>Nghe nhạc và chơi đàn guitar</li>
+        <li>Đi du lịch và chụp ảnh</li>
+    </ul>
+
+    <hr>
+
+    <!-- 4. Bảng thời khóa biểu -->
+    <h3>Thời khóa biểu tuần này</h3>
+    <table border="1" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Thứ</th>
+                <th>Buổi sáng</th>
+                <th>Buổi chiều</th>
+                <th>Buổi tối</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Thứ Hai</strong></td>
+                <td>Học HTML / CSS</td>
+                <td>Làm bài tập lập trình</td>
+                <td>Đọc sách & Bơi lội</td>
+            </tr>
+            <tr>
+                <td><strong>Thứ Ba</strong></td>
+                <td>Học JavaScript</td>
+                <td>Thực hành dự án</td>
+                <td>Nghe nhạc thư giãn</td>
+            </tr>
+            <tr>
+                <td><strong>Thứ Tư</strong></td>
+                <td>Cấu trúc dữ liệu</td>
+                <td>Tự học Git / GitHub</td>
+                <td>Xem phim</td>
+            </tr>
+            <tr>
+                <td><strong>Thứ Năm</strong></td>
+                <td>Học Tiếng Anh</td>
+                <td>Làm bài tập 07</td>
+                <td>Chơi thể thao</td>
+            </tr>
+            <tr>
+                <td><strong>Thứ Sáu</strong></td>
+                <td>Học HTML Nâng cao</td>
+                <td>Review Code</td>
+                <td>Gặp gỡ bạn bè</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <!-- 5. Liên kết tới trang mạng xã hội -->
+    <h3>Kết nối với tôi</h3>
+    <p>
+        Hãy kết nối với tôi qua các mạng xã hội sau:
+    </p>
+    <ul>
+        <li><a href="https://facebook.com" target="_blank">Trang Facebook cá nhân</a></li>
+        <li><a href="https://linkedin.com" target="_blank">Hồ sơ LinkedIn</a></li>
+    </ul>
+
+</body>
+</html>
