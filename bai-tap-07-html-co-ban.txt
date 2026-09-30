@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Giới thiệu bản thân - Nguyen Van A</title>
+    <title>Giới thiệu bản thân - Le Dien Anh Tai </title>
 </head>
 <body>
 
     <!-- 1. Tiêu đề chính (Tên của bạn) -->
-    <h1>Nguyễn Văn A</h1>
+    <h1> Lê Diên Anh Tài </h1>
     <p><em>Chào mừng bạn đến với trang web cá nhân của mình!</em></p>
 
     <hr>
 
     <!-- 2. Ảnh đại diện -->
     <h3>Ảnh đại diện</h3>
-    <img src="https://via.placeholder.com/200" alt="Ảnh đại diện của Nguyễn Văn A" width="200">
+    <img src="https://via.placeholder.com/200" alt="Ảnh đại diện của  Lê Diên Anh Tài" width="200">
 
     <hr>
 
@@ -84,7 +84,6 @@
     </p>
     <ul>
         <li><a href="https://facebook.com" target="_blank">Trang Facebook cá nhân</a></li>
-        <li><a href="https://linkedin.com" target="_blank">Hồ sơ LinkedIn</a></li>
     </ul>
 
 </body>
